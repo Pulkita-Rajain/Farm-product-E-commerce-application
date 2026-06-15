@@ -2,6 +2,7 @@ package com.app.ecom.dto;
 
 import lombok.Data;
 
+
 @Data
 public class ProductRequest {
     private String name;
